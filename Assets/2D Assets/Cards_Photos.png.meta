@@ -1,0 +1,3808 @@
+fileFormatVersion: 2
+guid: 66cb39ead68c2344cbf02c3eaa05321e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4143061735738795540
+    second: Cards_Photos_0
+  - first:
+      213: -8159900648288961409
+    second: Cards_Photos_1
+  - first:
+      213: -1110204449233878957
+    second: Cards_Photos_2
+  - first:
+      213: -7475583368581276673
+    second: Cards_Photos_3
+  - first:
+      213: 4945285244853131199
+    second: Cards_Photos_4
+  - first:
+      213: -6859659644642657070
+    second: Cards_Photos_5
+  - first:
+      213: -1204476764616122070
+    second: Cards_Photos_6
+  - first:
+      213: 6686599673756279791
+    second: Cards_Photos_7
+  - first:
+      213: -6596479396512760915
+    second: Cards_Photos_8
+  - first:
+      213: -1885141177392788459
+    second: Cards_Photos_9
+  - first:
+      213: 5325398070461900106
+    second: Cards_Photos_10
+  - first:
+      213: 6166102464788270059
+    second: Cards_Photos_11
+  - first:
+      213: -6606163126066435150
+    second: Cards_Photos_12
+  - first:
+      213: 4054140896186176099
+    second: Cards_Photos_13
+  - first:
+      213: 4115610912651548081
+    second: Cards_Photos_14
+  - first:
+      213: 1698196549835507517
+    second: Cards_Photos_15
+  - first:
+      213: 1210559415216127019
+    second: Cards_Photos_16
+  - first:
+      213: 5980479369115326023
+    second: Cards_Photos_17
+  - first:
+      213: -852141120676402791
+    second: Cards_Photos_18
+  - first:
+      213: 8521630588080803988
+    second: Cards_Photos_19
+  - first:
+      213: 1313958982713806375
+    second: Cards_Photos_20
+  - first:
+      213: 5095400758496624416
+    second: Cards_Photos_21
+  - first:
+      213: -5461475142150996343
+    second: Cards_Photos_22
+  - first:
+      213: 7492283503795890980
+    second: Cards_Photos_23
+  - first:
+      213: -1760211004138921345
+    second: Cards_Photos_24
+  - first:
+      213: 2900830178657900572
+    second: Cards_Photos_25
+  - first:
+      213: 3799812132653889264
+    second: Cards_Photos_26
+  - first:
+      213: 4498993456709520696
+    second: Cards_Photos_27
+  - first:
+      213: -2014404894006063501
+    second: Cards_Photos_28
+  - first:
+      213: -7444830283201145013
+    second: Cards_Photos_29
+  - first:
+      213: 3083801768233177700
+    second: Cards_Photos_30
+  - first:
+      213: 2618450605982379975
+    second: Cards_Photos_31
+  - first:
+      213: -5198977512243036722
+    second: Cards_Photos_32
+  - first:
+      213: -7609770077508803533
+    second: Cards_Photos_33
+  - first:
+      213: -3649851879431194098
+    second: Cards_Photos_34
+  - first:
+      213: -1032472801375020495
+    second: Cards_Photos_35
+  - first:
+      213: 7319157185915927786
+    second: Cards_Photos_36
+  - first:
+      213: -2524466089913273438
+    second: Cards_Photos_37
+  - first:
+      213: 3416924530418938749
+    second: Cards_Photos_38
+  - first:
+      213: -3469920975951957496
+    second: Cards_Photos_39
+  - first:
+      213: 3021495873443874325
+    second: Cards_Photos_40
+  - first:
+      213: 8091189339121413730
+    second: Cards_Photos_41
+  - first:
+      213: 6152601845955183705
+    second: Cards_Photos_42
+  - first:
+      213: -9073701630212906804
+    second: Cards_Photos_43
+  - first:
+      213: -2886885817722722912
+    second: Cards_Photos_44
+  - first:
+      213: -7664568367855978878
+    second: Cards_Photos_45
+  - first:
+      213: -2893498644255883718
+    second: Cards_Photos_46
+  - first:
+      213: 7378022925400557326
+    second: Cards_Photos_47
+  - first:
+      213: 6810784012188830817
+    second: Cards_Photos_48
+  - first:
+      213: -4820811305737157456
+    second: Cards_Photos_49
+  - first:
+      213: -1082655612873311643
+    second: Cards_Photos_50
+  - first:
+      213: -7919521717012844408
+    second: Cards_Photos_51
+  - first:
+      213: -1120120339744326793
+    second: Cards_Photos_52
+  - first:
+      213: -8531416908385516520
+    second: Cards_Photos_53
+  - first:
+      213: -7386884496605815956
+    second: Cards_Photos_54
+  - first:
+      213: 2565876341325499433
+    second: Cards_Photos_55
+  - first:
+      213: -7408897496181989235
+    second: Cards_Photos_56
+  - first:
+      213: -6996735477242808334
+    second: Cards_Photos_57
+  - first:
+      213: 4629830377790827798
+    second: Cards_Photos_58
+  - first:
+      213: 7760288484853674067
+    second: Cards_Photos_59
+  - first:
+      213: 3046500045829965547
+    second: Cards_Photos_60
+  - first:
+      213: -6496383505697109088
+    second: Cards_Photos_61
+  - first:
+      213: 4757882811950234260
+    second: Cards_Photos_62
+  - first:
+      213: -3082373368279832339
+    second: Cards_Photos_63
+  - first:
+      213: 8432583698133425047
+    second: Cards_Photos_64
+  - first:
+      213: -1551758848746513754
+    second: Cards_Photos_65
+  - first:
+      213: -348693981725434392
+    second: Cards_Photos_66
+  - first:
+      213: -2239072176220611107
+    second: Cards_Photos_67
+  - first:
+      213: -6079928340839131569
+    second: Cards_Photos_68
+  - first:
+      213: -4691587598826401865
+    second: Cards_Photos_69
+  - first:
+      213: 8055488263894315407
+    second: Cards_Photos_70
+  - first:
+      213: 2117128749066970472
+    second: Cards_Photos_71
+  - first:
+      213: -2142370459406949779
+    second: Cards_Photos_72
+  - first:
+      213: 666482630315560008
+    second: Cards_Photos_73
+  - first:
+      213: -4541179936594003919
+    second: Cards_Photos_74
+  - first:
+      213: 1823578585567110459
+    second: Cards_Photos_75
+  - first:
+      213: 9163837251276619430
+    second: Cards_Photos_76
+  - first:
+      213: -718504101125978132
+    second: Cards_Photos_77
+  - first:
+      213: -6583958443292109083
+    second: Cards_Photos_78
+  - first:
+      213: 6997896041222610182
+    second: Cards_Photos_79
+  - first:
+      213: 6318172909662973352
+    second: Cards_Photos_80
+  - first:
+      213: -2959647338421517660
+    second: Cards_Photos_81
+  - first:
+      213: -5379045339596603173
+    second: Cards_Photos_82
+  - first:
+      213: 7013433825998601361
+    second: Cards_Photos_83
+  - first:
+      213: -3846179512360592780
+    second: Cards_Photos_84
+  - first:
+      213: -3262170282901239189
+    second: Cards_Photos_85
+  - first:
+      213: 7558148166873617874
+    second: Cards_Photos_86
+  - first:
+      213: 3687949651707036183
+    second: Cards_Photos_87
+  - first:
+      213: 3892129854976238619
+    second: Cards_Photos_88
+  - first:
+      213: 2939926348737766102
+    second: Cards_Photos_89
+  - first:
+      213: -3807803391347990166
+    second: Cards_Photos_90
+  - first:
+      213: -4381679965119413745
+    second: Cards_Photos_91
+  - first:
+      213: 1148601505119488870
+    second: Cards_Photos_92
+  - first:
+      213: -2328773266391644579
+    second: Cards_Photos_93
+  - first:
+      213: -9167684774773224923
+    second: Cards_Photos_94
+  - first:
+      213: -9188131155235342302
+    second: Cards_Photos_95
+  - first:
+      213: -6486655551589714984
+    second: Cards_Photos_96
+  - first:
+      213: -9199315805912497478
+    second: Cards_Photos_97
+  - first:
+      213: -2318468123436533997
+    second: Cards_Photos_98
+  - first:
+      213: -1712146909103704995
+    second: Cards_Photos_99
+  - first:
+      213: -7312889940779224853
+    second: Cards_Photos_100
+  - first:
+      213: 224427550654900165
+    second: Cards_Photos_101
+  - first:
+      213: -5553137591865092677
+    second: Cards_Photos_102
+  - first:
+      213: -7577593128774672146
+    second: Cards_Photos_103
+  - first:
+      213: -1607423611135943364
+    second: Cards_Photos_104
+  - first:
+      213: 7750287581977154288
+    second: Cards_Photos_105
+  - first:
+      213: 1975212861737560527
+    second: Cards_Photos_106
+  - first:
+      213: 1966756798247821434
+    second: Cards_Photos_107
+  - first:
+      213: 2429656398070570071
+    second: Cards_Photos_108
+  - first:
+      213: 5983856994684169323
+    second: Cards_Photos_109
+  - first:
+      213: -3523774323012415995
+    second: Cards_Photos_110
+  - first:
+      213: 5839231651179288698
+    second: Cards_Photos_111
+  - first:
+      213: 6886534545392515357
+    second: Cards_Photos_112
+  - first:
+      213: -7691924776643344074
+    second: Cards_Photos_113
+  - first:
+      213: 3560828655974300057
+    second: Cards_Photos_114
+  - first:
+      213: -9129771810648077970
+    second: Cards_Photos_115
+  - first:
+      213: 884379654119507192
+    second: Cards_Photos_116
+  - first:
+      213: -1538735213838201150
+    second: Cards_Photos_117
+  - first:
+      213: 6682800255293970305
+    second: Cards_Photos_118
+  - first:
+      213: 7126303962178757450
+    second: Cards_Photos_119
+  - first:
+      213: 8321027707868579815
+    second: Cards_Photos_120
+  - first:
+      213: 8471084734300591414
+    second: Cards_Photos_121
+  - first:
+      213: 8273803345932527595
+    second: Cards_Photos_122
+  - first:
+      213: 7112539403339498236
+    second: Cards_Photos_123
+  - first:
+      213: -5846784283785616531
+    second: Cards_Photos_124
+  - first:
+      213: -991326369173832014
+    second: Cards_Photos_125
+  - first:
+      213: 881899872217822365
+    second: Cards_Photos_126
+  - first:
+      213: 3087077923508110008
+    second: Cards_Photos_127
+  - first:
+      213: 1274877132036883898
+    second: Cards_Photos_128
+  - first:
+      213: 2583922964441671516
+    second: Cards_Photos_129
+  - first:
+      213: -8544484540267128912
+    second: Cards_Photos_130
+  - first:
+      213: -2484681228098210226
+    second: Cards_Photos_131
+  - first:
+      213: -8454527003331841907
+    second: Cards_Photos_132
+  - first:
+      213: 3945541942106543962
+    second: Cards_Photos_133
+  - first:
+      213: -899777765975445148
+    second: Cards_Photos_134
+  - first:
+      213: 9099747544533991417
+    second: Cards_Photos_135
+  - first:
+      213: -3042987980330769079
+    second: Cards_Photos_136
+  - first:
+      213: 9116053590374315798
+    second: Cards_Photos_137
+  - first:
+      213: -4708723866795945068
+    second: Cards_Photos_138
+  - first:
+      213: -2785383682165896225
+    second: Cards_Photos_139
+  - first:
+      213: 4822513455747899244
+    second: Cards_Photos_140
+  - first:
+      213: -4004705042287109767
+    second: Cards_Photos_141
+  - first:
+      213: -2777816421338508680
+    second: Cards_Photos_142
+  - first:
+      213: -2939721961569105563
+    second: Cards_Photos_143
+  - first:
+      213: -6421597089454519258
+    second: Cards_Photos_144
+  - first:
+      213: 3418937729869856564
+    second: Cards_Photos_145
+  - first:
+      213: 1922229639928044625
+    second: Cards_Photos_146
+  - first:
+      213: -965827771746173983
+    second: Cards_Photos_147
+  - first:
+      213: -8903013973258082289
+    second: Cards_Photos_148
+  - first:
+      213: 4444448649498256726
+    second: Cards_Photos_149
+  - first:
+      213: 8245887754521076902
+    second: Cards_Photos_150
+  - first:
+      213: 3834454434345042739
+    second: Cards_Photos_151
+  - first:
+      213: -509400125457966639
+    second: Cards_Photos_152
+  - first:
+      213: -6034179259942754793
+    second: Cards_Photos_153
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cards_Photos_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 592
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6ce9ae5a0803f49b29260af03b3417
+      internalID: -4143061735738795540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 586
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c591f37f27cd04791a1ea4747562df
+      internalID: -8159900648288961409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 580
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6149c155674cc0449c7bad2fb6f09aa
+      internalID: -1110204449233878957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 589
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656935727dfb9da4caf8d7fe23cb240b
+      internalID: -7475583368581276673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 585
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef04e7d20c58053488740899f6311d49
+      internalID: 4945285244853131199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 577
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d572a31afc7644a8810245ff89650f
+      internalID: -6859659644642657070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 588
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1850c30886a2bfa4d88257bd75a5d871
+      internalID: -1204476764616122070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 585
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad054d0f04f8004abc81b012230cc9b
+      internalID: 6686599673756279791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_8
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 581
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f947a4c12f172c448b313ed192bc2f4
+      internalID: -6596479396512760915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 592
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89192e8d26c58dd4994d4f913a371569
+      internalID: -1885141177392788459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_10
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 596
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bc83b6d9bc80441bddf457e1ec6bf9
+      internalID: 5325398070461900106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_11
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 585
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc1375379d655c4da030bb7e9f24414
+      internalID: 6166102464788270059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 593
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe47a2d07ee5ed4899636960389d4d6
+      internalID: -6606163126066435150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_13
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 590
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac629b7639ebc104d8630f1102166ab3
+      internalID: 4054140896186176099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_14
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 585
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46140adbdab3ac46b94aef23c774d3c
+      internalID: 4115610912651548081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_15
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 589
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4888b15b3edc3c4bb169a306083d3d2
+      internalID: 1698196549835507517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 519
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76bd826ef2ab6144a1d1b623037488b
+      internalID: 1210559415216127019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 513
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8cd03c2d059e248961c58505d6e261
+      internalID: 5980479369115326023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 526
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5777ec6efa9350642acadfd21581f01d
+      internalID: -852141120676402791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 523
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db7f9bdb0ba52b448adaa5b8feb3791
+      internalID: 8521630588080803988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 524
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8386105681e0bc447ad2b065fc4ae64d
+      internalID: 1313958982713806375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 512
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c54e7c33ae32f245806873bf2adaf90
+      internalID: 5095400758496624416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_22
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 527
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bab7d7a25f1ff4cbcbf830aadcfc64
+      internalID: -5461475142150996343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_23
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 515
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3d2284b7f46fd4bb8c4268d18fc3af
+      internalID: 7492283503795890980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_24
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 521
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df3b54328d2c1a44b9840445d7f0412
+      internalID: -1760211004138921345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_25
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 512
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3609865dbecf99d4d8e5d6e7e0532494
+      internalID: 2900830178657900572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_26
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 523
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5334e91e3d5234caee90fedbf2f250
+      internalID: 3799812132653889264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_27
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 518
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475bc623816fdea44834afcaf15f4e98
+      internalID: 4498993456709520696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_28
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 528
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f540464b6c4fe174d93a8eb5908d76e7
+      internalID: -2014404894006063501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_29
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 523
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48d1817544442947ae75d98ee074922
+      internalID: -7444830283201145013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_30
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 514
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8477315b175f794f8926f0871b833ec
+      internalID: 3083801768233177700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_31
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 524
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f42992c506860c4eb796856765dfe77
+      internalID: 2618450605982379975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 456
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1de6771ee841374d878e3196717bca7
+      internalID: -5198977512243036722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 450
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f272dd74611f040bfe15624b0e41e2
+      internalID: -7609770077508803533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 464
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0f7a169a7388148bc98ab515eb82f0
+      internalID: -3649851879431194098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_35
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 455
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3c9bce492e7fe458bb2b0337fc7b61
+      internalID: -1032472801375020495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_36
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 460
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fa1de2087d3a145b7b9973eb77c8bc
+      internalID: 7319157185915927786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_37
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 451
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3348b0a5f17e442afc22ba20f9cd3b
+      internalID: -2524466089913273438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 464
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb81f8d8793b2d4da3bf87fbe1447db
+      internalID: 3416924530418938749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_39
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 456
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442cf264f2088614180bf2e76a121c1a
+      internalID: -3469920975951957496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_40
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 461
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2ed91be1b96414fa2f5a50684216c0
+      internalID: 3021495873443874325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_41
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 449
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bad1258690d2b44ba8f49a9d3add10
+      internalID: 8091189339121413730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_42
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 460
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7005d8f3bea15b24b8dd905eb9637ce8
+      internalID: 6152601845955183705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_43
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 456
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e65257fade0f8489101e38314ed2df
+      internalID: -9073701630212906804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_44
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 458
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd74601f75fcea743998da821dc3bc16
+      internalID: -2886885817722722912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_45
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 466
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fc6779141a45048ae5da5147d1a685
+      internalID: -7664568367855978878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_46
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 456
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f25c5deed7ebca4db6bdfb3f7d975af
+      internalID: -2893498644255883718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_47
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 459
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb77db17a1bebfc4c803a7321c7ff973
+      internalID: 7378022925400557326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 392
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2c5ade1c09aa44d983d76ebf18f051
+      internalID: 6810784012188830817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_49
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 401
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d793c7bdca9cc14486f9280fbaeef3c
+      internalID: -4820811305737157456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_50
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 396
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ef829fdc9f7f94bb8da06b2e19cfa2
+      internalID: -1082655612873311643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_51
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 396
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83970f84b3796f944bec118fcf737a89
+      internalID: -7919521717012844408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_52
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 394
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce0e5183cf373745805ba7648f31fcb
+      internalID: -1120120339744326793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_53
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 393
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9b5dd62b64ae34a8b518b3d7e157c1
+      internalID: -8531416908385516520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_54
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 390
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49d808ad10cd404295fb1ec56137af8
+      internalID: -7386884496605815956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_55
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 398
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c65517b75a4b3241a0ea765d3894829
+      internalID: 2565876341325499433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_56
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 390
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba47db6886d2a1d41b607ccca87184ab
+      internalID: -7408897496181989235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_57
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 396
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acab19a4e04f93e4b91ff858a4637e89
+      internalID: -6996735477242808334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_58
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 386
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fed2315a7f7cb46b8170bd0c1a1684
+      internalID: 4629830377790827798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_59
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 400
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41378f23e2f4e31409715aea9a11b882
+      internalID: 7760288484853674067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_60
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 395
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd3103aa8d69de42980ab9f8e4ebec1
+      internalID: 3046500045829965547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_61
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 391
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4b4ab88b587494ca8993bffad2a410
+      internalID: -6496383505697109088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_62
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 395
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78eea8726a8d7e4abc25d097f1cae1d
+      internalID: 4757882811950234260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_63
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 388
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59d27cf503ee134ca72075560892105
+      internalID: -3082373368279832339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7245bb37d2e75f41bae9bc1bb0261c3
+      internalID: 8432583698133425047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_65
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 331
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ed96323f4f01941af983d4335b5323
+      internalID: -1551758848746513754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_66
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 326
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f4d47fe715292459f279a8ac2fd12f
+      internalID: -348693981725434392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 323
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6a8deebfa1fa145a85e16acb64e256
+      internalID: -2239072176220611107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_68
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 335
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff66bdcb4abf5cc428e4cb080e93558a
+      internalID: -6079928340839131569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_69
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 331
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c13c48bb00a5a4fbf66fd0d68b9361
+      internalID: -4691587598826401865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_70
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 325
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76deb386c05d4a4c9ff1e5d2ffcc2e3
+      internalID: 8055488263894315407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_71
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 331
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9024b5578985ac449551350aaa12ac1
+      internalID: 2117128749066970472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_72
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 321
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad76688bef10404439877c748c6a1bab
+      internalID: -2142370459406949779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_73
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 338
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b614cf388d9fe4d865a19db4acabd2
+      internalID: 666482630315560008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_74
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 331
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acc0cdee9f236c4c8ca9c7ee2c3176c
+      internalID: -4541179936594003919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_75
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 327
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a57daa9c1531444ae1262114ee36fc
+      internalID: 1823578585567110459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_76
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 327
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d528744b6ba8d4d9b0b3908ea6f69e
+      internalID: 9163837251276619430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_77
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33e52b958ee11b47a2bf14e26f04136
+      internalID: -718504101125978132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_78
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 333
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50790bbefcc5a64f8297d97f1d18a92
+      internalID: -6583958443292109083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_79
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 322
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3215e955fcbf3f847bd4edbf63b05734
+      internalID: 6997896041222610182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 278
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f51aab6dc0870f4098514a22c88081a
+      internalID: 6318172909662973352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 272
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334ac444b2d20214d846b053e07c75e3
+      internalID: -2959647338421517660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_82
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 267
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fccc125048f22a499ac0f5e52b2edf4
+      internalID: -5379045339596603173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_83
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 263
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862a1982a137d6e488afeb6bc5b64293
+      internalID: 7013433825998601361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 257
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c48c7ad1b38fe40ba2b1a7137c959b
+      internalID: -3846179512360592780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_85
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 265
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4086543389fbc4fbd5836d30f490c1
+      internalID: -3262170282901239189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_86
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 263
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971aba6309da6344184de07943cd502d
+      internalID: 7558148166873617874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_87
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 267
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c2dc7db9e12c54bbe8c391b061cc0e
+      internalID: 3687949651707036183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 266
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2aefab6f87e7a489917c8e8679c94c
+      internalID: 3892129854976238619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_89
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 272
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b7699e6aa8adb44a3821c564ebf8d8
+      internalID: 2939926348737766102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_90
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 260
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d22a2bb8d282744a6e31f652955c14
+      internalID: -3807803391347990166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_91
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 262
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15027bbfb903d847b8464b9b7ad3165
+      internalID: -4381679965119413745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_92
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 263
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d91b215226c154bb4ed92379c900eb
+      internalID: 1148601505119488870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_93
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 265
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90beaf348c489f04192e6824567534a7
+      internalID: -2328773266391644579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_94
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 259
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35e6c3767e98fa47939e2b89b90466f
+      internalID: -9167684774773224923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_95
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 265
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7671da32e8504684d9a1164f5b1cd303
+      internalID: -9188131155235342302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bda6543143ef148a7805e55df1dd96
+      internalID: -6486655551589714984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_97
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 206
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d9bbbed9817ba45b0b5adbd83143bb
+      internalID: -9199315805912497478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 197
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2444f45dc249f4e89e040f75a10c90
+      internalID: -2318468123436533997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 211
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a64e45cf8a15d42b3bcd40d6af3ee6
+      internalID: -1712146909103704995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_100
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 206
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c4dd2632aa1014a9e8813b334b6d35
+      internalID: -7312889940779224853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_101
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 201
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1184135198432a843b2b7763b935cf76
+      internalID: 224427550654900165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_102
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 193
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ea29f5ba321fe47adf6e5bc931923d
+      internalID: -5553137591865092677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_103
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 205
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c09f3bcb711b9f40947e805c0a73bcc
+      internalID: -7577593128774672146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 205
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b096a89506e9804796749c5e1f4f56c
+      internalID: -1607423611135943364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_105
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 196
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072cf3148621f2a478fb9ca370f59033
+      internalID: 7750287581977154288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_106
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 196
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79f03f07a1af25438f19c42cba14be3
+      internalID: 1975212861737560527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_107
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 200
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b75fc01a68e8684883f01826222309a
+      internalID: 1966756798247821434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_108
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 206
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082b60a8559a269439ab6ab61209cf9f
+      internalID: 2429656398070570071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_109
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 235
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bff13f4597691a4ab58080a16a6c3a6
+      internalID: 5983856994684169323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_110
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 199
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b847ad1b453014bb4ccdc5f8393a60
+      internalID: -3523774323012415995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_111
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 201
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ca8ccc3ed59c84ab3eb6649ebb9e02
+      internalID: 5839231651179288698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_112
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 194
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06787e86aab0e594d96550e4692cec41
+      internalID: 6886534545392515357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_113
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 220
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec959ab1c30787e439237428fc5305dd
+      internalID: -7691924776643344074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_114
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 203
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e888c692b73b746bf6e168f6217b9e
+      internalID: 3560828655974300057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_115
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 137
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f7067575c6b4746aafaeecb32b5a73
+      internalID: -9129771810648077970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_116
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 136
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256a3bc3daba9d44495e11ec19c30afb
+      internalID: 884379654119507192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_117
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 128
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a2a6db2f2ac3148a726d93bd209270
+      internalID: -1538735213838201150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_118
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 144
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db727654097f49449b41aa693afcd04a
+      internalID: 6682800255293970305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_119
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 134
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd804a9ce31f0e4b8bf7e4b81f4cbe4
+      internalID: 7126303962178757450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_120
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 138
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcaa0ac61309e546a88237967d8524f
+      internalID: 8321027707868579815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_121
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 132
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eef6cbb7c2dc214c8ca09b51ec9d3c3
+      internalID: 8471084734300591414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_122
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 141
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adc9003fe102dd43b2c106c59944781
+      internalID: 8273803345932527595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_123
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 138
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6ffe5791a54684884b624abd3c351e
+      internalID: 7112539403339498236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_124
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 136
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769f87a4e58503e4fac7e334d703e4ea
+      internalID: -5846784283785616531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_125
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 130
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca34a43d01857334cb94f668b16fa929
+      internalID: -991326369173832014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_126
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 136
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e948345bc04d74ab1d3648b105bfe6
+      internalID: 881899872217822365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_127
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 132
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8152aec766483c24cad51a39cd2c6c2d
+      internalID: 3087077923508110008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_128
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 132
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d6c9214058b8d428ad8a38de581d98
+      internalID: 1274877132036883898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_129
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 132
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc6661ca8362504ea2666e6d91c5f97
+      internalID: 2583922964441671516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_130
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 133
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24ab921cc73fd740aa7bc5e5919fd49
+      internalID: -8544484540267128912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_131
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 75
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fef604cd4d1974e9866fc08f6025f4
+      internalID: -2484681228098210226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_132
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d4b9e06c1e66443971b3e915c407a1
+      internalID: -8454527003331841907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_133
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 68
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc07213e71892a041a0a1724e3ddcdbc
+      internalID: 3945541942106543962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_134
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 81
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d1a304393c92848bae1d5ce4177fef
+      internalID: -899777765975445148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_135
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 77
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70140224c0ba8084bab855114f2ed968
+      internalID: 9099747544533991417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_136
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 70
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f488c49378e90c84d94c5136f3483d13
+      internalID: -3042987980330769079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_137
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 74
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b7aa20d3c7e4541b9e0fbbe9653955
+      internalID: 9116053590374315798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_138
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 75
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baf45a3f8c0a15479ec9e5402c8f55f
+      internalID: -4708723866795945068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_139
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 75
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6503b332061334cb04dbfb54c26678
+      internalID: -2785383682165896225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_140
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 79
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215fc867d4821a94e9fe25fd777ea264
+      internalID: 4822513455747899244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_141
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 71
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc3531ed774d3945943acdd330eeaff
+      internalID: -4004705042287109767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_142
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 84
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f462530514d7599449d90c2259bbcfd3
+      internalID: -2777816421338508680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_143
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 67
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa5962332881cb44aedfa93306fc02e
+      internalID: -2939721961569105563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_144
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 65
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087118f355b4c7844ab57faa559d71c1
+      internalID: -6421597089454519258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_145
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 69
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a10a22bcb17d694f9962c407675b99f
+      internalID: 3418937729869856564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_146
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 64
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31337f83663e69a47a2a527305c90afb
+      internalID: 1922229639928044625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69d2d230fc2cd34a83801d5a3e9db38
+      internalID: -965827771746173983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_148
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 6
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de1d0abd8d30bd48a2acc5f66d6b592
+      internalID: -8903013973258082289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_149
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 15
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9334d420cbf890f4b8d8833b99241682
+      internalID: 4444448649498256726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_150
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 6
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab580ff7f2930b439da759a7a7b6ce1
+      internalID: 8245887754521076902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_151
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974b0f914ad41b74bbb1813a3de8445f
+      internalID: 3834454434345042739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_152
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e40391cf2ab0ff4c9b6cec33f4f337f
+      internalID: -509400125457966639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cards_Photos_153
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 13
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c464c60bd293947bf0c28819cc6e90
+      internalID: -6034179259942754793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 22acc35f1b6d0dd41b64f275e54c97e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
